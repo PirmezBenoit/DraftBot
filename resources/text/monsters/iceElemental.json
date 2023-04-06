@@ -1,0 +1,35 @@
+{
+	"translations": {
+		"fr": "Elemental de glace",
+		"en": "Ice elemental"
+	},
+	"fightPointsRatio": 100,
+	"attackRatio": 100,
+	"defenseRatio": 100,
+	"speedRatio": 80,
+	"breath": 8,
+	"maxBreath": 15,
+	"breathRegen": 4,
+	"rewardMultiplier": 1.0,
+	"attacks": [
+		{
+			"id": "freezingTouch",
+			"minLevel": 0
+		},
+		{
+			"id": "iceShards",
+			"minLevel": 0
+		},
+		{
+			"id": "blizzard",
+			"minLevel": 0
+		},
+		{
+			"id": "iceBarrier",
+			"minLevel": 0
+		}
+	],
+	"maps": [
+		1003
+	]
+}
