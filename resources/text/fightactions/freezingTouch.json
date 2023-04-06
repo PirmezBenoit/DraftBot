@@ -1,0 +1,18 @@
+{
+	"translations": {
+		"fr": {
+			"name": "Toucher glaçant",
+			"namePlural": "Touchers glaçant",
+			"description": "Une attaque de glâce faisant des dégâts moyens et diminuant la vitesse de l'adversaire"
+		},
+		"en": {
+			"name": "Freezing touch",
+			"namePlural": "Freezing touchs",
+			"description": "An ice attack doing medium damage and decreasing the opponent's speed"
+		}
+	},
+	"emote": "\uD83E\uDDCA",
+	"breath": 8,
+	"missionVariant": -1,
+	"type": "distance"
+}
