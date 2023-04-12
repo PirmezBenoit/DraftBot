@@ -1,0 +1,20 @@
+{
+	"translations": {
+		"fr": {
+			"name": "Blizzard",
+			"namePlural": "Blizzards",
+			"description": "Vent de glace provoquant une baisse de la précision et de la défense",
+			"active": "Le blizzard se lève."
+		},
+		"en": {
+			"name": "Blizzard",
+			"namePlural": "Blizzards",
+			"description": "Ice wind decrease precision and defense",
+			"active": "Blizzard came."
+		}
+	},
+	"emote": "\uD83C\uDF2C\uFE0F",
+	"breath": 4,
+	"missionVariant": -1,
+	"type": "alteration"
+}

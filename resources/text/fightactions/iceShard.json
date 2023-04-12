@@ -1,0 +1,18 @@
+{
+	"translations": {
+		"fr": {
+			"name": "Éclat de glace",
+			"namePlural": "Éclats de glace",
+			"description": "Une attaque de glâce faisant des dégâts moyens"
+		},
+		"en": {
+			"name": "Ice shard",
+			"namePlural": "ice shards",
+			"description": "An ice attack doing medium damage"
+		}
+	},
+	"emote": "\uD83E\uDDCA",
+	"breath": 8,
+	"missionVariant": -1,
+	"type": "distance"
+}
